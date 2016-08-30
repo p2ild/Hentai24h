@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <TextView
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:id="@+id/catalog_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tên catalog"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+
+</android.support.v7.widget.CardView>
